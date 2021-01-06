@@ -1,0 +1,24 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: E:/Program Files/msys2/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+E:/Program Files/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find E:/Program: No such file or directory
+E:/Program Files/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find Files/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: E:/Program Files/msys2/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+E:/Program Files/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find E:/Program: No such file or directory
+E:/Program Files/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find Files/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+
+

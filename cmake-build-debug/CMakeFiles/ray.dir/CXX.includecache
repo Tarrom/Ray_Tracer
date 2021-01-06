@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/My Documents/CPE 593/ray/camera.h
+ray.h
+E:/My Documents/CPE 593/ray/ray.h
+random
+-
+random_number_gen.h
+E:/My Documents/CPE 593/ray/random_number_gen.h
+
+E:/My Documents/CPE 593/ray/hitable.h
+ray.h
+E:/My Documents/CPE 593/ray/ray.h
+
+E:/My Documents/CPE 593/ray/hitable_list.h
+hitable.h
+E:/My Documents/CPE 593/ray/hitable.h
+
+E:/My Documents/CPE 593/ray/main.cpp
+iostream
+-
+fstream
+-
+math.h
+-
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+random_number_gen.h
+E:/My Documents/CPE 593/ray/random_number_gen.h
+sphere.h
+E:/My Documents/CPE 593/ray/sphere.h
+hitable_list.h
+E:/My Documents/CPE 593/ray/hitable_list.h
+float.h
+E:/My Documents/CPE 593/ray/float.h
+camera.h
+E:/My Documents/CPE 593/ray/camera.h
+material.h
+E:/My Documents/CPE 593/ray/material.h
+
+E:/My Documents/CPE 593/ray/material.h
+ray.h
+E:/My Documents/CPE 593/ray/ray.h
+hitable.h
+E:/My Documents/CPE 593/ray/hitable.h
+stdlib.h
+-
+random_number_gen.h
+E:/My Documents/CPE 593/ray/random_number_gen.h
+
+E:/My Documents/CPE 593/ray/random_number_gen.h
+stdlib.h
+-
+random
+-
+
+E:/My Documents/CPE 593/ray/ray.h
+vec3.h
+E:/My Documents/CPE 593/ray/vec3.h
+
+E:/My Documents/CPE 593/ray/sphere.h
+hitable.h
+E:/My Documents/CPE 593/ray/hitable.h
+
+E:/My Documents/CPE 593/ray/vec3.h
+math.h
+-
+stdlib.h
+-
+iostream
+-
+fstream
+-
+
